@@ -1,0 +1,4 @@
+/build/
+/dist/
+*.fisica.bin
+*.juridica.bin
